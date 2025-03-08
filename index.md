@@ -6,3 +6,4 @@
 ###### `h6` content
 
 write the header.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
